@@ -8,7 +8,7 @@ Redirect m4's output to a file called machineCode.txt
 
 The short c program implements the single address accumulator which reads instructions from machineCode.txt
 
-Assembly Instructions:
+Assembly Instruction Set:
 
 STOP 0                                           
 LD 1                                         
